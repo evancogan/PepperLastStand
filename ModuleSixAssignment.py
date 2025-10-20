@@ -122,10 +122,8 @@ def main():
         lower_input = user_input.lower()
 
         # Help
-                if lower_input == 'help':
-
-                     `  -
-                      +        show_instructions()
+        if lower_input == 'help':
+            show_instructions()
             continue
 
         # Status

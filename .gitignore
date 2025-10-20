@@ -1,0 +1,10 @@
+# PyInstaller build folders
+/build/
+/dist/
+
+# PyInstaller spec file (often named after your script)
+*.spec
+
+# Python cache files
+__pycache__/
+*.pyc
